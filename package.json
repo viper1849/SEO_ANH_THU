@@ -1,0 +1,14 @@
+{
+  "name": "seo-anh-thu-static",
+  "version": "1.0.0",
+  "description": "Anh Thư Sweater - Thời trang nữ trẻ trung, thanh lịch",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve",
+    "build": "echo This is a static template, there is no bundler or bundling involved!"
+  },
+  "dependencies": {
+    "serve": "^14.0.0"
+  },
+  "devDependencies": {}
+}
